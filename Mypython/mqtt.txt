@@ -1,0 +1,12 @@
+
+结果（MQTT 连接信息）
+Broker 地址 
+akpufey.iot.gz.baidubce.com
+MQTT 用户名 
+thingidp@akpufey|kongzhi001|0|MD5
+MQTT 密码 
+fb6b96cfb6b85d1d355cc75fe7da51ba
+ClientID 
+kongzhi001
+
+gggggggggggggggggg
