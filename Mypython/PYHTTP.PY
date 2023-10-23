@@ -1,5 +1,5 @@
 import requests
-
+import json
 #res = requests.get(url='http://ws.webxml.com.cn/WebServices/WeatherWS.asmx/getRegionProvince')
 #print(res.text)
 #打印响应主体内容，字符串格式
@@ -15,7 +15,7 @@ mydict=res.text
 #print(type(mydict))
 #print(mydict)
 
-import json
+
 
 
 r = json.loads(res.text) # json数据自动按Unicode存储
